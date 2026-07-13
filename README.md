@@ -11,6 +11,9 @@ My first calculator project written in C.
 ```bash
 gcc calculator.c -o calculator
 ./calculator
+
+gcc calculator2.c -o calculator2
+./calculator2
 ```
 
 ## Author
