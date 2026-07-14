@@ -14,6 +14,9 @@ gcc calculator.c -o calculator
 
 gcc calculator2.c -o calculator2
 ./calculator2
+
+gcc weight-calculator.c -o weight-calculator
+./weight-calculator
 ```
 
 ## Author
