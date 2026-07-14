@@ -16,3 +16,5 @@ quantity.c
 quantity
 string.c
 string
+name-input.c
+name-input
