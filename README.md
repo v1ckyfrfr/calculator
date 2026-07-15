@@ -17,6 +17,9 @@ gcc calculator2.c -o calculator2
 
 gcc weight-calculator.c -o weight-calculator
 ./weight-calculator
+
+gcc temperature.c -o temperature
+./temperature
 ```
 
 ## Author
